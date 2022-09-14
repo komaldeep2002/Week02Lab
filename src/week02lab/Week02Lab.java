@@ -17,7 +17,7 @@ public class Week02Lab {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       System.out.println("Lab2");
+       System.out.println("Week2Lab2");
     }
     
 }
